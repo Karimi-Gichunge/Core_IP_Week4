@@ -35,4 +35,4 @@ H1: mu₁ != mu₂
 
 
 
-This study contains a python notebook
+This study contains a python notebook and a hypothesis report.
