@@ -26,9 +26,11 @@ We will be using a paired sample t-test for mean since our data is from the same
 We are going to test the hypothesis that the number of blue cars  taken during the weekends is similar to the one taken during the weekdays against the alternative hypothesis that  the number of blue cars  taken during the weekends varies from the one taken during the weekdays.
 Key:
 mu₁: mean of bluecars taken during normal weekdays 
+
 mu₂: mean of bluecars taken during the weekends
 
 Ho: mu₁ = mu₂.
+
 H1: mu₁ != mu₂
 
 
